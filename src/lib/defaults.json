@@ -1,0 +1,524 @@
+{
+ "general": {
+  "name": "Sakina Studio",
+  "tagline": "Agence de communication visuelle et digitale",
+  "city": "Dakar, Sénégal",
+  "phone1": "+221 77 831 32 22",
+  "phone2": "+221 78 764 90 23",
+  "whatsapp": "221778313222",
+  "email": "",
+  "address1": "Darou Salam Croisement",
+  "address2": "Tivaoune Peulh, Dakar",
+  "hours": "Lun – Sam : 9 h – 18 h",
+  "facebook": "",
+  "instagram": "",
+  "linkedin": "",
+  "tiktok": "",
+  "youtube": "",
+  "map_embed_url": "",
+  "logo_light_url": "/brand/logo-light.svg",
+  "logo_dark_url": "/brand/logo-dark.svg"
+ },
+ "home": {
+  "hero_badge": "Agence de communication visuelle & digitale",
+  "hero_title_1": "Donnons vie",
+  "hero_title_2": "à votre",
+  "hero_title_accent": "image.",
+  "hero_text": "Du branding au digital, de la 3D à l'audiovisuel : une seule agence pour faire rayonner votre marque.",
+  "hero_cta1": "Voir nos réalisations",
+  "hero_cta2": "Demander un devis",
+  "hero_image": "/images/mascot-desk.webp",
+  "stat1_value": "5",
+  "stat1_label": "expertises",
+  "stat2_value": "1",
+  "stat2_label": "agence complète",
+  "stat3_value": "Dakar",
+  "stat3_label": "Sénégal",
+  "expertises_eyebrow": "Nos expertises",
+  "expertises_title": "Une agence, cinq savoir-faire",
+  "expertises_text": "Du premier logo à la campagne complète, nous prenons en charge toute votre communication visuelle et digitale.",
+  "portfolio_eyebrow": "Portfolio",
+  "portfolio_title": "Réalisations récentes",
+  "portfolio_button": "Voir tout le portfolio",
+  "method_eyebrow": "Notre méthode",
+  "method_title": "Une collaboration simple, de l'idée à la livraison",
+  "client_eyebrow": "Relation client",
+  "client_title": "Un suivi simple et transparent",
+  "client_text": "Avec votre espace client, suivez l'avancement de vos projets, échangez avec l'équipe et retrouvez tous vos fichiers au même endroit.",
+  "client_bullets": [
+   "Suivi de l'avancement de vos projets",
+   "Téléchargement des fichiers livrables",
+   "Messagerie directe avec l'équipe"
+  ],
+  "client_button": "Accéder à l'espace client",
+  "testi_eyebrow": "Témoignages",
+  "testi_title": "Ils nous font confiance"
+ },
+ "pages": {
+  "services_title": "Nos expertises",
+  "services_text": "Cinq savoir-faire complémentaires pour une communication cohérente, du logo à la campagne.",
+  "portfolio_title": "Nos réalisations",
+  "portfolio_text": "Une sélection de projets en branding, digital, audiovisuel et publicité.",
+  "about_title": "À propos",
+  "about_text": "Une agence pluridisciplinaire, à Dakar, au service de votre image.",
+  "contact_title": "Contact et devis",
+  "contact_text": "Un projet ? Une question ? Écrivez-nous, nous vous répondons rapidement.",
+  "client_title": "Espace client",
+  "client_text": "Connectez-vous pour suivre vos projets, télécharger vos fichiers et échanger avec l'équipe."
+ },
+ "about": {
+  "eyebrow": "Notre histoire",
+  "title": "Une agence née de la créativité",
+  "title_accent": "et de la sérénité.",
+  "text": "Sakina vient de l'arabe et évoque le calme, l'apaisement. C'est dans cet état d'esprit que nous accompagnons nos clients : avec clarté, exigence et écoute.",
+  "text2": "Texte à compléter depuis l'administration : l'histoire de l'agence, sa création, ses fondateurs et sa vision.",
+  "image": "/images/mascot-sofa.webp",
+  "values_eyebrow": "Nos valeurs",
+  "values_title": "Ce qui guide notre travail",
+  "team_eyebrow": "L'équipe",
+  "team_title": "Les visages de Sakina Studio"
+ },
+ "contact": {
+  "form_title": "Demander un devis",
+  "form_text": "Remplissez ce formulaire, nous revenons vers vous rapidement.",
+  "budgets": [
+   "Moins de 100 000 FCFA",
+   "100 000 – 300 000 FCFA",
+   "300 000 – 1 000 000 FCFA",
+   "Plus de 1 000 000 FCFA",
+   "À définir ensemble"
+  ],
+  "consent": "J'accepte que mes données soient utilisées pour être recontacté(e).",
+  "delay": "Réponse sous 24 à 48 h.",
+  "success_title": "Merci, votre demande est bien envoyée.",
+  "success_text": "Notre équipe vous répond dans les meilleurs délais.",
+  "panel_title": "Nos coordonnées"
+ },
+ "cta": {
+  "title": "Un projet en tête ? Parlons-en.",
+  "text": "Décrivez votre besoin, nous vous répondons rapidement.",
+  "button1": "Demander un devis",
+  "button2": "Écrire sur WhatsApp"
+ },
+ "footer": {
+  "text": "Agence de communication visuelle et digitale basée à Dakar, Sénégal.",
+  "copyright": "Sakina Studio. Tous droits réservés."
+ },
+ "seo": {
+  "title": "Sakina Studio · Agence de communication visuelle et digitale à Dakar",
+  "description": "Branding, design digital et web, 3D et architecture d'intérieur, reportage photo et audiovisuel, publicité : une seule agence à Dakar pour faire rayonner votre marque.",
+  "og_image": "/images/mascot-desk.webp"
+ },
+ "legal": {
+  "title": "Mentions légales",
+  "content": "Éditeur du site : Sakina Studio, Darou Salam Croisement, Tivaoune Peulh, Dakar, Sénégal.\n\nContenu à compléter depuis l'administration : forme juridique, numéro d'immatriculation, directeur de la publication, hébergeur du site et politique de confidentialité."
+ },
+ "services": [
+  {
+   "slug": "branding",
+   "icon": "branding",
+   "title": "Branding et identité visuelle",
+   "short_title": "Branding",
+   "summary": "Logo, charte graphique et univers de marque.",
+   "description": "Nous construisons une identité visuelle claire et cohérente : logo, couleurs, typographies et supports. Une approche sur mesure, adaptée à votre activité et à vos objectifs.",
+   "deliverables": [
+    "Logo et déclinaisons",
+    "Charte graphique",
+    "Papeterie et supports",
+    "Univers de marque"
+   ],
+   "id": "branding",
+   "position": 0,
+   "published": true
+  },
+  {
+   "slug": "web",
+   "icon": "web",
+   "title": "Design digital et développement web",
+   "short_title": "Design digital & web",
+   "summary": "Sites vitrines, interfaces et expériences en ligne.",
+   "description": "Nous concevons des sites et des interfaces simples à utiliser, fidèles à votre image et pensés pour le mobile. Une approche sur mesure, adaptée à votre activité et à vos objectifs.",
+   "deliverables": [
+    "Maquettes UI / UX",
+    "Site vitrine et portfolio",
+    "Version mobile",
+    "Mise en ligne et suivi"
+   ],
+   "id": "web",
+   "position": 1,
+   "published": true
+  },
+  {
+   "slug": "3d",
+   "icon": "3d",
+   "title": "Création 3D et architecture d'intérieur",
+   "short_title": "3D & architecture",
+   "summary": "Visualisations 3D et aménagement d'intérieur.",
+   "description": "Nous donnons forme à vos espaces et à vos produits grâce à des visualisations 3D réalistes, avant toute réalisation. Une approche sur mesure, adaptée à votre activité et à vos objectifs.",
+   "deliverables": [
+    "Visualisations 3D",
+    "Aménagement d'intérieur",
+    "Plans et ambiances",
+    "Rendus réalistes"
+   ],
+   "id": "3d",
+   "position": 2,
+   "published": true
+  },
+  {
+   "slug": "audiovisuel",
+   "icon": "photo",
+   "title": "Reportage photo et audiovisuel",
+   "short_title": "Photo & audiovisuel",
+   "summary": "Reportages photo, vidéos et motion design.",
+   "description": "Nous racontons votre activité en images : reportages photo, vidéos, spots et animations. Une approche sur mesure, adaptée à votre activité et à vos objectifs.",
+   "deliverables": [
+    "Reportages photo",
+    "Vidéos et motion design",
+    "Spots publicitaires",
+    "Montage et sound design"
+   ],
+   "id": "audiovisuel",
+   "position": 3,
+   "published": true
+  },
+  {
+   "slug": "publicite",
+   "icon": "pub",
+   "title": "Publicité et design institutionnel",
+   "short_title": "Publicité",
+   "summary": "Campagnes, affiches et supports de communication.",
+   "description": "Nous créons les campagnes et les supports qui font passer votre message : affiches, visuels réseaux et documents institutionnels. Une approche sur mesure, adaptée à votre activité et à vos objectifs.",
+   "deliverables": [
+    "Affiches et flyers",
+    "Campagnes réseaux sociaux",
+    "Supports institutionnels",
+    "Déclinaisons multi-formats"
+   ],
+   "id": "publicite",
+   "position": 4,
+   "published": true
+  }
+ ],
+ "categories": [
+  {
+   "slug": "branding",
+   "name": "Branding",
+   "id": "branding",
+   "position": 0,
+   "published": true
+  },
+  {
+   "slug": "web",
+   "name": "Digital & web",
+   "id": "web",
+   "position": 1,
+   "published": true
+  },
+  {
+   "slug": "3d",
+   "name": "3D & architecture",
+   "id": "3d",
+   "position": 2,
+   "published": true
+  },
+  {
+   "slug": "audiovisuel",
+   "name": "Audiovisuel",
+   "id": "audiovisuel",
+   "position": 3,
+   "published": true
+  },
+  {
+   "slug": "publicite",
+   "name": "Publicité",
+   "id": "publicite",
+   "position": 4,
+   "published": true
+  }
+ ],
+ "projects": [
+  {
+   "slug": "affiche-institutionnelle",
+   "title": "Affiche institutionnelle",
+   "category": "publicite",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Affiche de présentation de l'agence : cinq expertises et coordonnées.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/affiche.jpg",
+   "gallery": [
+    "/images/portfolio/affiche.jpg"
+   ],
+   "featured": true,
+   "id": "affiche-institutionnelle",
+   "position": 0,
+   "published": true
+  },
+  {
+   "slug": "carte-de-visite-et-papeterie",
+   "title": "Carte de visite et papeterie",
+   "category": "branding",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Carte de visite recto-verso déclinée de l'identité visuelle.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/carte.jpg",
+   "gallery": [
+    "/images/portfolio/carte.jpg"
+   ],
+   "featured": true,
+   "id": "carte-de-visite-et-papeterie",
+   "position": 1,
+   "published": true
+  },
+  {
+   "slug": "spot-octobre-rose",
+   "title": "Spot Octobre Rose",
+   "category": "audiovisuel",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Vidéo de sensibilisation pour Octobre Rose, avec illustrations et sound design.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/octobre.jpg",
+   "gallery": [
+    "/images/portfolio/octobre.jpg"
+   ],
+   "featured": true,
+   "id": "spot-octobre-rose",
+   "position": 2,
+   "published": true
+  },
+  {
+   "slug": "affiche-nous-sommes-ouverts",
+   "title": "Affiche « Nous sommes ouverts »",
+   "category": "publicite",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Visuel d'annonce pour les réseaux sociaux.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/ouverts.jpg",
+   "gallery": [
+    "/images/portfolio/ouverts.jpg"
+   ],
+   "featured": true,
+   "id": "affiche-nous-sommes-ouverts",
+   "position": 3,
+   "published": true
+  },
+  {
+   "slug": "brand-reveal-de-l-agence",
+   "title": "Brand reveal de l'agence",
+   "category": "branding",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Animation de dévoilement de l'identité visuelle.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/brand.jpg",
+   "gallery": [
+    "/images/portfolio/brand.jpg"
+   ],
+   "featured": true,
+   "id": "brand-reveal-de-l-agence",
+   "position": 4,
+   "published": true
+  },
+  {
+   "slug": "pub-cinetique-des-expertises",
+   "title": "Pub cinétique des expertises",
+   "category": "audiovisuel",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Motion design présentant les cinq expertises de l'agence.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/pub.jpg",
+   "gallery": [
+    "/images/portfolio/pub.jpg"
+   ],
+   "featured": true,
+   "id": "pub-cinetique-des-expertises",
+   "position": 5,
+   "published": true
+  },
+  {
+   "slug": "affiche-bon-debut-de-semaine",
+   "title": "Affiche « Bon début de semaine »",
+   "category": "publicite",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Visuel de communication hebdomadaire pour les réseaux.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/bondebut.jpg",
+   "gallery": [
+    "/images/portfolio/bondebut.jpg"
+   ],
+   "featured": false,
+   "id": "affiche-bon-debut-de-semaine",
+   "position": 6,
+   "published": true
+  },
+  {
+   "slug": "octobre-rose-illustre",
+   "title": "Octobre Rose illustré",
+   "category": "audiovisuel",
+   "client": "Sakina Studio",
+   "year": "2026",
+   "services_label": "Création graphique",
+   "summary": "Série d'illustrations animées autour de la prévention.",
+   "context": "À compléter : présentez le besoin du client, son activité et ses objectifs en quelques lignes claires.",
+   "solution": "À compléter : décrivez la direction créative, les choix graphiques et les livrables conçus.",
+   "result": "À compléter : expliquez l'impact du projet (image de marque, diffusion, retours du client).",
+   "cover_url": "/images/portfolio/talk.jpg",
+   "gallery": [
+    "/images/portfolio/talk.jpg"
+   ],
+   "featured": false,
+   "id": "octobre-rose-illustre",
+   "position": 7,
+   "published": true
+  }
+ ],
+ "testimonials": [
+  {
+   "name": "Prénom Nom",
+   "company": "Entreprise",
+   "role": "Fonction",
+   "quote": "Témoignage du client à ajouter ici : quelques lignes sur la collaboration et les résultats obtenus.",
+   "avatar_url": "",
+   "published": false,
+   "id": "testimonials-0",
+   "position": 0
+  },
+  {
+   "name": "Prénom Nom",
+   "company": "Entreprise",
+   "role": "Fonction",
+   "quote": "Témoignage du client à ajouter ici : quelques lignes sur la collaboration et les résultats obtenus.",
+   "avatar_url": "",
+   "published": false,
+   "id": "testimonials-1",
+   "position": 1
+  },
+  {
+   "name": "Prénom Nom",
+   "company": "Entreprise",
+   "role": "Fonction",
+   "quote": "Témoignage du client à ajouter ici : quelques lignes sur la collaboration et les résultats obtenus.",
+   "avatar_url": "",
+   "published": false,
+   "id": "testimonials-2",
+   "position": 2
+  }
+ ],
+ "team_members": [
+  {
+   "name": "Prénom Nom",
+   "role": "Fonction",
+   "photo_url": "",
+   "published": false,
+   "id": "team_members-0",
+   "position": 0
+  },
+  {
+   "name": "Prénom Nom",
+   "role": "Fonction",
+   "photo_url": "",
+   "published": false,
+   "id": "team_members-1",
+   "position": 1
+  },
+  {
+   "name": "Prénom Nom",
+   "role": "Fonction",
+   "photo_url": "",
+   "published": false,
+   "id": "team_members-2",
+   "position": 2
+  },
+  {
+   "name": "Prénom Nom",
+   "role": "Fonction",
+   "photo_url": "",
+   "published": false,
+   "id": "team_members-3",
+   "position": 3
+  }
+ ],
+ "process_steps": [
+  {
+   "title": "Écoute et brief",
+   "description": "Nous comprenons votre activité, vos objectifs et votre public.",
+   "id": "process_steps-0",
+   "position": 0,
+   "published": true
+  },
+  {
+   "title": "Concept et direction",
+   "description": "Nous proposons une direction créative claire et argumentée.",
+   "id": "process_steps-1",
+   "position": 1,
+   "published": true
+  },
+  {
+   "title": "Création et validation",
+   "description": "Vous suivez et validez chaque étape, avec des retours simples.",
+   "id": "process_steps-2",
+   "position": 2,
+   "published": true
+  },
+  {
+   "title": "Livraison et suivi",
+   "description": "Vous recevez vos fichiers prêts à l'emploi, et un accompagnement.",
+   "id": "process_steps-3",
+   "position": 3,
+   "published": true
+  }
+ ],
+ "site_values": [
+  {
+   "title": "Clarté",
+   "description": "Des idées simples, des messages lisibles.",
+   "icon": "branding",
+   "id": "site_values-0",
+   "position": 0,
+   "published": true
+  },
+  {
+   "title": "Exigence",
+   "description": "Un souci du détail à chaque étape.",
+   "icon": "web",
+   "id": "site_values-1",
+   "position": 1,
+   "published": true
+  },
+  {
+   "title": "Proximité",
+   "description": "Une relation directe et transparente.",
+   "icon": "3d",
+   "id": "site_values-2",
+   "position": 2,
+   "published": true
+  }
+ ]
+}
